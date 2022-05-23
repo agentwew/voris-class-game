@@ -1,12 +1,12 @@
 {
-    "name": "",
+    "name": "rmmz-game",
     "main": "index.html",
-    "js-flags": "--expose-gc",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "",
-        "toolbar": false,
+        "title": "Voris and the Invasion of Cringe",
         "width": 816,
         "height": 624,
+        "position": "center",
         "icon": "icon/icon.png"
     }
 }
